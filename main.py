@@ -442,7 +442,7 @@ if __name__ == '__main__':
                         if mouse_on_button == 2:
                             webbrowser.open("https://github.com/sushio4", new=2)
                         elif mouse_on_button == 1:
-                            webbrowser.open("https://www.instagram.com/babel_aaa/", new=2)
+                            webbrowser.open("https://github.com/DerQut", new=2)
                         clicking = False
                         mouse_on_button = 0
             if event.type == pygame.KEYDOWN:
