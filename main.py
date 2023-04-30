@@ -5,7 +5,7 @@ import os
 import ctypes
 import subprocess
 import webbrowser
-#test
+#testing
 from pygame.locals import *
 
 debug = True
